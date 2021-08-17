@@ -1,1 +1,7 @@
 # Prediction-of-Diabetes
+Around 400 million people suffer from diabetes around the world. Diabetes prediction is challenging as it involves complex interactions or interdependencies between various human organs like eye, kidney, heart, etc. 
+The machine learning (ML) algorithms provide an efficient way of predicting the diabetes. The objective of this work is to build a system using ML techniques for the accurate forecast of diabetes in a patient. The decision tree (DT) algorithms are well suited for this. 
+In this work, we have applied the DT algorithm to forecast type 2 diabetes mellitus (T2DM). Extensive experiments were performed on the Pima Indian Diabetes Dataset (PIDD) obtained from the UCI machine learning repository. Based on the results, we observed that the decision tree was able to forecast accurately when compared to the SVM algorithm on the diabetes data.
+Machine learning techniques Provide better result for prediction by constructing models from datasets collected from patients. In this work we will use Machine Learning Classification and ensemble techniques on a dataset to predict diabetes. Which are XG Boost (XGB), Decision Tree (DT), Support Vector Machine (SVM) and Random Forest (RF). 
+The accuracy is different for every model when compared to other models. The Project work gives the accurate or higher accuracy model shows that the model is capable of predicting diabetes effectively. Our Result shows that Random Forest achieved higher accuracy compared to other machine learning techniques. 
+
