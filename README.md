@@ -5,4 +5,4 @@ In this work, we have applied the DT algorithm to forecast type 2 diabetes melli
 Machine learning techniques Provide better result for prediction by constructing models from datasets collected from patients. In this work we will use Machine Learning Classification and ensemble techniques on a dataset to predict diabetes. Which are XG Boost (XGB), Decision Tree (DT), Support Vector Machine (SVM) and Random Forest (RF). 
 The accuracy is different for every model when compared to other models. The Project work gives the accurate or higher accuracy model shows that the model is capable of predicting diabetes effectively. Our Result shows that Random Forest achieved higher accuracy compared to other machine learning techniques. 
 
-link: https://drive.google.com/drive/folders/1IxruJjzlgTpQgI3S24TfuRIjKxPcXiN1
+link for Project: https://drive.google.com/drive/folders/1IxruJjzlgTpQgI3S24TfuRIjKxPcXiN1
